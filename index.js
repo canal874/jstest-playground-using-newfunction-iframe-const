@@ -1,6 +1,7 @@
 /**
  * JS Playground implementation using new Function() in iframe
  */
+"use strict";
 
 const run = function() {
   const code = document.getElementById("code").value;
